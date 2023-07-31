@@ -3,7 +3,7 @@ using AppliedActivity5.Database;
 
 namespace AppliedActivity5.SeedDate
 {
-	public class DatabaseSeeder_cs
+	public class DatabaseSeeder
 	{
         public static void SeedData()
         {
